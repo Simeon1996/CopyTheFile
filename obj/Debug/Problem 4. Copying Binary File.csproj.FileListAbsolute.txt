@@ -1,0 +1,6 @@
+C:\Users\kamiIfani\documents\visual studio 2013\Projects\Homework Streams and Files\Problem 4. Copying Binary File\bin\Debug\Problem_4.Copying_Binary_File.exe.config
+C:\Users\kamiIfani\documents\visual studio 2013\Projects\Homework Streams and Files\Problem 4. Copying Binary File\bin\Debug\Problem_4.Copying_Binary_File.exe
+C:\Users\kamiIfani\documents\visual studio 2013\Projects\Homework Streams and Files\Problem 4. Copying Binary File\bin\Debug\Problem_4.Copying_Binary_File.pdb
+C:\Users\kamiIfani\documents\visual studio 2013\Projects\Homework Streams and Files\Problem 4. Copying Binary File\obj\Debug\Problem 4. Copying Binary File.csprojResolveAssemblyReference.cache
+C:\Users\kamiIfani\documents\visual studio 2013\Projects\Homework Streams and Files\Problem 4. Copying Binary File\obj\Debug\Problem_4.Copying_Binary_File.exe
+C:\Users\kamiIfani\documents\visual studio 2013\Projects\Homework Streams and Files\Problem 4. Copying Binary File\obj\Debug\Problem_4.Copying_Binary_File.pdb
